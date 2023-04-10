@@ -8,7 +8,7 @@ public class test4 {
         ClassicMusic classicMusic = context.getBean("classicMusic", ClassicMusic.class);
         RockMusic rockMusic = context.getBean("rockMusic", RockMusic.class);
         MusicPlayer musicPlayer = context.getBean("musicPlayer", MusicPlayer.class);
-        musicPlayer.PlayMusic();
+//        musicPlayer.PlayMusic();
 
     }
 }
