@@ -9,6 +9,7 @@ public class MusicPlayer {
 
     public MusicPlayer(@Qualifier ("rockMusic") Music music1,
         @Qualifier("classicMusic") Music music2){
+        int a;
 //        this.music1 = music1;
 //        this.music2 = music2;
 
