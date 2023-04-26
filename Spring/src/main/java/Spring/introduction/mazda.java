@@ -8,6 +8,6 @@ public class mazda implements Car {
 @Bean
     @Override
     public void model() {
-        System.out.println("This is model mazda");
+        System.out.println("This is model mazda3");
     }
 }
